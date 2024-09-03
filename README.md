@@ -1,3 +1,6 @@
+# vicnote
+this is simply the starter template for Render.com's MySQL private service. No changes added to this codebase at all
+
 # MySQL on Render
 
 This is a template repository for running [MySQL](https://www.mysql.com) on Render. 
